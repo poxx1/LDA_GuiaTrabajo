@@ -1,0 +1,9 @@
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\bin\Debug\netcoreapp3.1\DAL_DB_Connection.deps.json
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\bin\Debug\netcoreapp3.1\DAL_DB_Connection.dll
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\bin\Debug\netcoreapp3.1\DAL_DB_Connection.pdb
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\obj\Debug\netcoreapp3.1\DAL_DB_Connection.csprojAssemblyReference.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\obj\Debug\netcoreapp3.1\DAL_DB_Connection.AssemblyInfoInputs.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\obj\Debug\netcoreapp3.1\DAL_DB_Connection.AssemblyInfo.cs
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\obj\Debug\netcoreapp3.1\DAL_DB_Connection.csproj.CoreCompileInputs.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\obj\Debug\netcoreapp3.1\DAL_DB_Connection.dll
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\DB_Connection\obj\Debug\netcoreapp3.1\DAL_DB_Connection.pdb

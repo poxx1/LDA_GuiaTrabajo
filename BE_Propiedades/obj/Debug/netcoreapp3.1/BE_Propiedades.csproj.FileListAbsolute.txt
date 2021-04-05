@@ -1,0 +1,8 @@
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\bin\Debug\netcoreapp3.1\BE_Propiedades.deps.json
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\bin\Debug\netcoreapp3.1\BE_Propiedades.dll
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\bin\Debug\netcoreapp3.1\BE_Propiedades.pdb
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.AssemblyInfoInputs.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.AssemblyInfo.cs
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.dll
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.pdb

@@ -1,0 +1,9 @@
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\bin\Debug\netcoreapp3.1\BLL_Negocio.deps.json
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\bin\Debug\netcoreapp3.1\BLL_Negocio.dll
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\bin\Debug\netcoreapp3.1\BLL_Negocio.pdb
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\obj\Debug\netcoreapp3.1\BLL_Negocio.csprojAssemblyReference.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\obj\Debug\netcoreapp3.1\BLL_Negocio.AssemblyInfoInputs.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\obj\Debug\netcoreapp3.1\BLL_Negocio.AssemblyInfo.cs
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\obj\Debug\netcoreapp3.1\BLL_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\obj\Debug\netcoreapp3.1\BLL_Negocio.dll
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BLL_Negocio\obj\Debug\netcoreapp3.1\BLL_Negocio.pdb

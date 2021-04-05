@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Poxi\\source\\repos\\LPA_GuiaTrabajo\\DB_Connection\\DAL_DB_Connection.csproj",
-      "projectName": "DAL_DB_Connection",
-      "projectPath": "C:\\Users\\Poxi\\source\\repos\\LPA_GuiaTrabajo\\DB_Connection\\DAL_DB_Connection.csproj",
+      "projectUniqueName": "C:\\Users\\Poxi\\source\\repos\\LPA_GuiaTrabajo\\BE_Propiedades\\BE_Propiedades.csproj",
+      "projectName": "BE_Propiedades",
+      "projectPath": "C:\\Users\\Poxi\\source\\repos\\LPA_GuiaTrabajo\\BE_Propiedades\\BE_Propiedades.csproj",
       "packagesPath": "C:\\Users\\Poxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Poxi\\source\\repos\\LPA_GuiaTrabajo\\DB_Connection\\obj\\",
+      "outputPath": "C:\\Users\\Poxi\\source\\repos\\LPA_GuiaTrabajo\\BE_Propiedades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Poxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
