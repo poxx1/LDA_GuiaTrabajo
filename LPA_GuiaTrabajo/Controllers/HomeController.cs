@@ -18,13 +18,24 @@ namespace LPA_GuiaTrabajo.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        //public IActionResult Index()
+        //{
+        //    return View();
+        //}
+
+        public IActionResult Privacy()
         {
             return View();
         }
 
-        public IActionResult Privacy()
-        {
+        //Genero una peticion GET. 
+        [HttpGet]
+        public ActionResult Index()
+        { 
+            var model = "Mensaje to show";
+
+            ViewBag.Mensaje = model;
+
             return View();
         }
 

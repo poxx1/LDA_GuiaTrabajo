@@ -6,3 +6,4 @@ C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.
 C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.csproj.CoreCompileInputs.cache
 C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.dll
 C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.pdb
+C:\Users\Poxi\source\repos\LPA_GuiaTrabajo\BE_Propiedades\obj\Debug\netcoreapp3.1\BE_Propiedades.csprojAssemblyReference.cache
